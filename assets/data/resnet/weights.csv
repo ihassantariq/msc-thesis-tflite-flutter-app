@@ -1,0 +1,9 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23
+10370003,111975006,164889003,164890007,164909002,164917005,164934002,164947007,251146004,270492004,284470004,39732003,426177001,426627000,426783006,427084000,427172004,427393009,445118002,47665007,59931005,698252002,713426002,713427006
+IAVB,AF,AFL,Brady,CRBBB,IRBBB,LAnFB,LAD,LBBB,LQRSV,NSIVCB,PR,PAC,PVC,LPR,LQT,QAb,RAD,SA,SB,NSR,STach,TAb,TInv
+1st degree av block,atrial fibrillation,atrial flutter,bradycardia,complete right bundle branch block,incomplete right bundle branch block,left anterior fascicular block,left axis deviation,left bundle branch block,low qrs voltages,nonspecific intraventricular conduction disorder,pacing rhythm,premature atrial contraction,premature ventricular contractions,prolonged pr interval,prolonged qt interval,qwave abnormal,right axis deviation,sinus arrhythmia,sinus bradycardia,sinus rhythm,sinus tachycardia,t wave abnormal,t wave inversion
+0.18,0.17,0.11,0.09,0.23,0.51,0.21,0.17,0.39,0.12,0.2,0.17,0.23,0.13,0.15,0.12,0.17,0.15,0.18,0.22,0.12,0.22,0.22,0.11
+0.07,0.15,0.14,0.2,0.23,0.42,0.31,0.1,0.31,0.13,0.2,0.19,0.19,0.26,0.23,0.1,0.13,0.19,0.12,0.16,0.13,0.16,0.14,0.16
+0.04,0.24,0.26,0.15,0.15,0.39,0.26,0.15,0.2,0.2,0.16,0.2,0.25,0.17,0.47000000000000003,0.16,0.12,0.19,0.1,0.25,0.2,0.12,0.18,0.15
+0.04,0.15,0.2,0.17,0.12,0.34,0.26,0.31,0.14,0.19,0.19,0.15,0.32,0.44,0.41000000000000003,0.11,0.21,0.09,0.09,0.12,0.16,0.18,0.3,0.15
+0.11,0.18,0.09,0.25,0.21,0.34,0.26,0.09,0.18,0.07,0.22,0.21,0.26,0.48,0.25,0.28,0.21,0.22,0.12,0.16,0.15,0.19,0.22,0.37
